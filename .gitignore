@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.ckpt
+data/
+attack_outputs/
+checkpoints/
+*.log
+*.csv
+*.json
+*.png
+*.pdf
+*.svg
+.env
