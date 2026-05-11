@@ -193,15 +193,7 @@ attack_outputs/<DS>/
 
 ## 8. Citation
 
-If you use this code, please cite the LBR paper:
-
-```bibtex
-@inproceedings{roast2026,
-  title     = {Late Breaking Results: ROAST: Reverse-training Offset Attack on
-               Spatial Sampling Topologies},
-  booktitle = {Design Automation Conference (DAC)},
-  year      = {2026}
-}
+Coming soon ...
 ```
 
 LBPNet (the victim architecture) is from Lin *et al.*, "Local Binary Pattern
